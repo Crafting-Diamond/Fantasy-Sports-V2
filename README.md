@@ -1,1 +1,1 @@
-# Fantasy-Sports-V2
+# FantasyMN Prototype V2
